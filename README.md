@@ -7,7 +7,7 @@
 - [About](#about)
 - [Tech Stack](#tech-stack)
 - [Key Features](#key-features)
-- [Live Demo](#live-demo)
+
 
 <!-- PROJECT DESCRIPTION -->
 
